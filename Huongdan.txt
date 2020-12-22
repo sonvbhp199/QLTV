@@ -1,0 +1,1 @@
+ae cop vào trong cái usercontrol trong mục control + cop thư mục trong file DAL + BLL
